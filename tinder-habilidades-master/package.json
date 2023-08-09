@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "author": "Cristian Jaimes",
+  "author": "Steven Barrera",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
